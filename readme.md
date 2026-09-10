@@ -4,12 +4,12 @@ This repository contains the code, data and evaluation scripts to reproduce the 
 
 ## Overview
 
-1. [Dialect Variation Dictionaries](https://github.com/rlitschk/dialect-lexicon-induction#-dialect-variation-dictionaries)
-2. [Reproduce Results](https://github.com/rlitschk/dialect-lexicon-induction#reproduce-results)
-   1. [DiaLemma BLI](https://github.com/rlitschk/dialect-lexicon-induction#-dialemma-bli) (Table 2, Figure 1)
-   2. [WikiDIR BLI](https://github.com/rlitschk/dialect-lexicon-induction#-wikidir-bli) (Tables 3-5)
-   3. [Cross-Dialect IR](https://github.com/rlitschk/dialect-lexicon-induction#-cross-dialect-ir) (Table 6)
-3. [Citation](https://github.com/rlitschk/dialect-lexicon-induction#citation)
+1. [Dialect Variation Dictionaries](https://github.com/mainlp/dialect-lexicon-induction#-dialect-variation-dictionaries)
+2. [Reproduce Results](https://github.com/mainlp/dialect-lexicon-induction#reproduce-results)
+   1. [DiaLemma BLI](https://github.com/mainlp/dialect-lexicon-induction#-dialemma-bli) (Table 2, Figure 1)
+   2. [WikiDIR BLI](https://github.com/mainlp/dialect-lexicon-induction#-wikidir-bli) (Tables 3-5)
+   3. [Cross-Dialect IR](https://github.com/mainlp/dialect-lexicon-induction#-cross-dialect-ir) (Table 6)
+3. [Citation](https://github.com/mainlp/dialect-lexicon-induction#citation)
 
 ## 📖 Dialect Variation Dictionaries
 
